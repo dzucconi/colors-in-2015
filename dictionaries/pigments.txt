@@ -1,0 +1,40 @@
+azurite
+bone black
+cadmium yellow/red
+carbon black
+carmine
+cerulean blue
+chrome orange
+chrome yellow
+cobalt blue
+cobalt green
+cobalt violet
+cobalt yellow
+copper resinate
+egyptian blue
+emerald green
+green earth
+indian yellow
+indigo
+lead white
+lead-tin yellow
+lemon yellow
+lime white
+madder
+malachite
+naples yellow
+orpiment
+prussian blue
+realgar
+red lead
+red ochre
+smalt
+titanium white
+ultramarine
+umber
+van dyke brown
+verdigris
+vermilion
+viridian
+yellow ochre
+zinc white

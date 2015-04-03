@@ -1,0 +1,47 @@
+aquamarine
+black
+blue
+brass
+cadet blue
+copper
+cyan
+dark green
+dark orchid
+dark purple
+dark wood
+dim grey
+firebrick
+flesh
+forest green
+gold
+goldenrod
+green
+green copper
+grey
+khaki
+magenta
+maroon
+midnight blue
+new tan
+old gold
+orange
+orchid
+quartz
+red
+rich blue
+scarlet
+sea green
+semi-sweet chocolate
+sienna
+slate blue
+spring green
+steel blue
+summer sky
+tan
+turquoise
+very dark brown
+violet
+violet red
+white
+yellow
+yellow green

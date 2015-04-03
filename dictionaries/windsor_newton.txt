@@ -1,0 +1,279 @@
+aureolin dark
+aureolin light
+aureolin medium
+blue black dark
+blue black light
+blue black medium
+blue green dark
+blue green light
+blue green medium
+blue red dark
+blue red light
+blue red medium
+bright red dark
+bright red light
+bright red medium
+brown madder dark
+brown madder light
+brown madder medium
+burnt sienna dark
+burnt sienna light
+burnt sienna medium
+burnt umber dark
+burnt umber light
+burnt umber medium
+carmine dark
+carmine light
+carmine medium
+cerulean blue dark
+cerulean blue light
+cerulean blue medium
+charcoal gray dark
+charcoal gray light
+charcoal gray medium
+co blue dark
+co blue deep dark
+co blue deep light
+co blue deep medium
+co blue light
+co blue medium
+co green dark
+co green deep dark
+co green deep light
+co green deep medium
+co green light
+co green medium
+co turquoise dark
+co turquoise light
+co turquoise medium
+co violet dark
+co violet deep dark
+co violet deep light
+co violet deep medium
+co violet light
+co violet medium
+cr green deep dark
+cr green deep light
+cr green deep medium
+cr yellow dark
+cr yellow light
+cr yellow medium
+crimson dark
+crimson light
+crimson medium
+davys gray dark
+davys gray light
+davys gray medium
+emerald dark
+emerald light
+emerald medium
+flesh dark
+flesh light
+flesh medium
+gold ochre dark
+gold ochre light
+gold ochre medium
+green dark
+green light
+green medium
+green pale dark
+green pale light
+green pale medium
+green yellow dark
+green yellow light
+green yellow medium
+indathrene blue dark
+indathrene blue light
+indathrene blue medium
+indian red dark
+indian red light
+indian red medium
+indian yellow dark
+indian yellow light
+indian yellow medium
+indigo dark
+indigo light
+indigo medium
+ivory black dark
+ivory black light
+ivory black medium
+jaune brilliant dark
+jaune brilliant light
+jaune brilliant medium
+lamp black dark
+lamp black light
+lamp black medium
+lemon dark
+lemon light
+lemon medium
+lemon yellow dark
+lemon yellow light
+lemon yellow medium
+magenta dark
+magenta light
+magenta medium
+mars black dark
+mars black light
+mars black medium
+mars brown dark
+mars brown light
+mars brown medium
+mars orage dark
+mars orage light
+mars orage medium
+mars violet dark
+mars violet deep dark
+mars violet deep light
+mars violet deep medium
+mars violet light
+mars violet medium
+mars yellow dark
+mars yellow light
+mars yellow medium
+mauve dark
+mauve light
+mauve medium
+mn blue dark
+mn blue light
+mn blue medium
+naples yellow dark
+naples yellow light
+naples yellow medium
+naples yellow pale dark
+naples yellow pale light
+naples yellow pale medium
+olive green dark
+olive green light
+olive green medium
+orange dark
+orange light
+orange medium
+oxide of cr dark
+oxide of cr light
+oxide of cr medium
+pale red dark
+pale red light
+pale red medium
+paynes gray dark
+paynes gray light
+paynes gray medium
+perm crimson dark
+perm crimson light
+perm crimson medium
+perm green dark
+perm green deep dark
+perm green deep light
+perm green deep medium
+perm green light
+perm green medium
+perm green pale dark
+perm green pale light
+perm green pale medium
+perm magenta dark
+perm magenta light
+perm magenta medium
+perm mauve dark
+perm mauve light
+perm mauve medium
+perm rose dark
+perm rose light
+perm rose medium
+perm sap green dark
+perm sap green light
+perm sap green medium
+prussian blue dark
+prussian blue light
+prussian blue medium
+prussian green dark
+prussian green light
+prussian green medium
+pthalo turquoise dark
+pthalo turquoise light
+pthalo turquoise medium
+purple lake dark
+purple lake light
+purple lake medium
+purple madder dark
+purple madder light
+purple madder medium
+raw sienna dark
+raw sienna light
+raw sienna medium
+raw umber dark
+raw umber light
+raw umber medium
+red dark
+red deep dark
+red deep light
+red deep medium
+red light
+red medium
+rose dore dark
+rose dore light
+rose dore medium
+rose madder dark
+rose madder deep dark
+rose madder deep light
+rose madder deep medium
+rose madder light
+rose madder medium
+sap green dark
+sap green light
+sap green medium
+scarlet dark
+scarlet lake dark
+scarlet lake light
+scarlet lake medium
+scarlet light
+scarlet medium
+terra rosa dark
+terra rosa light
+terra rosa medium
+terre verte dark
+terre verte light
+terre verte medium
+trans gold ochre dark
+trans gold ochre light
+trans gold ochre medium
+trans yellow dark
+trans yellow light
+trans yellow medium
+ultramarine dark
+ultramarine green dark
+ultramarine green light
+ultramarine green medium
+ultramarine light
+ultramarine medium
+ultramarine violet dark
+ultramarine violet light
+ultramarine violet medium
+vandyke brown dark
+vandyke brown light
+vandyke brown medium
+venetian red dark
+venetian red light
+venetian red medium
+vermilion dark
+vermilion light
+vermilion medium
+violet dark
+violet light
+violet medium
+viridian dark
+viridian light
+viridian medium
+yellow dark
+yellow deep dark
+yellow deep light
+yellow deep medium
+yellow light
+yellow medium
+yellow ochre dark
+yellow ochre light
+yellow ochre medium
+yellow ochre pale dark
+yellow ochre pale light
+yellow ochre pale medium
+yellow pale dark
+yellow pale light
+yellow pale medium

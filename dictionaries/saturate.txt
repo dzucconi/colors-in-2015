@@ -1,0 +1,19 @@
+blue
+blue green
+bluish green
+bluish purple
+green
+greenish blue
+greenish yellow
+orange
+purple
+purplish blue
+purplish red
+red
+red purple
+reddish orange
+reddish purple
+yellow
+yellow green
+yellowish green
+yellowish orange

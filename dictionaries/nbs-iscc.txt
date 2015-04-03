@@ -1,0 +1,267 @@
+black
+blackish blue
+blackish green
+blackish purple
+blackish red
+bluish black
+bluish gray
+bluish white
+brilliant blue, celestial blue
+brilliant bluish green
+brilliant green
+brilliant greenish blue
+brilliant greenish yellow
+brilliant orange
+brilliant orange yellow
+brilliant purple
+brilliant purplish blue
+brilliant purplish pink
+brilliant violet
+brilliant yellow
+brilliant yellow green
+brilliant yellowish green
+brownish black
+brownish gray
+brownish orange
+brownish pink
+dark blue, navy blue
+dark bluish gray
+dark bluish green
+dark brown
+dark gray
+dark grayish blue
+dark grayish brown
+dark grayish green
+dark grayish olive
+dark grayish olive green
+dark grayish purple
+dark grayish red
+dark grayish reddish brown
+dark grayish yellow
+dark grayish yellowish brown
+dark green
+dark greenish blue
+dark greenish gray
+dark greenish yellow
+dark olive
+dark olive brown
+dark olive green
+dark orange yellow
+dark pink
+dark purple
+dark purplish blue
+dark purplish gray
+dark purplish pink
+dark purplish red
+dark red
+dark reddish brown
+dark reddish gray
+dark reddish orange
+dark reddish purple
+dark violet
+dark yellow
+dark yellowish brown
+dark yellowish green
+dark yellowish pink
+deep blue, royal blue
+deep bluish green
+deep brown
+deep green
+deep greenish blue
+deep greenish yellow
+deep olive green
+deep orange
+deep orange yellow
+deep pink
+deep purple
+deep purplish blue
+deep purplish pink
+deep purplish red
+deep red
+deep reddish brown
+deep reddish orange
+deep reddish purple
+deep violet
+deep yellow
+deep yellow green
+deep yellowish brown
+deep yellowish green
+deep yellowish pink
+grayish blue, slate blue
+grayish brown
+grayish green
+grayish greenish yellow
+grayish olive
+grayish olive green
+grayish pink
+grayish purple
+grayish purplish blue
+grayish purplish pink
+grayish purplish red
+grayish red
+grayish reddish brown
+grayish reddish orange
+grayish reddish purple
+grayish violet
+grayish yellow
+grayish yellow green
+grayish yellowish brown
+grayish yellowish pink
+greenish black
+greenish gray
+greenish white
+light blue, sky blue
+light bluish gray
+light bluish green
+light brown
+light brownish gray
+light gray
+light grayish brown
+light grayish olive
+light grayish purplish red
+light grayish red
+light grayish reddish brown
+light grayish yellowish brown
+light green
+light greenish blue
+light greenish gray
+light greenish yellow
+light olive
+light olive brown
+light olive gray
+light orange
+light orange yellow
+light pink
+light purple
+light purplish blue
+light purplish gray
+light purplish pink
+light reddish brown
+light reddish purple
+light violet
+light yellow
+light yellow green
+light yellowish brown
+light yellowish green
+light yellowish pink
+medium gray
+moderate blue, cerulean blue
+moderate bluish green
+moderate brown
+moderate green
+moderate greenish blue
+moderate greenish yellow
+moderate olive
+moderate olive brown
+moderate olive green
+moderate orange
+moderate orange yellow
+moderate pink
+moderate purple
+moderate purplish blue
+moderate purplish pink
+moderate purplish red
+moderate red
+moderate reddish brown
+moderate reddish orange
+moderate reddish purple
+moderate violet
+moderate yellow
+moderate yellow green
+moderate yellowish brown
+moderate yellowish green
+moderate yellowish pink
+olive black
+olive gray
+pale blue, alice blue
+pale green
+pale greenish yellow
+pale orange yellow
+pale pink
+pale purple
+pale purplish blue
+pale purplish pink
+pale reddish purple
+pale violet
+pale yellow
+pale yellow green
+pale yellowish pink
+pinkish gray
+pinkish white
+purplish black
+purplish gray
+purplish white
+reddish black
+reddish gray
+strong blue, bright blue
+strong bluish green
+strong brown
+strong green
+strong greenish blue
+strong greenish yellow
+strong olive green
+strong orange
+strong orange yellow
+strong pink
+strong purple
+strong purplish blue
+strong purplish pink
+strong purplish red
+strong red
+strong reddish brown
+strong reddish orange
+strong reddish purple
+strong violet
+strong yellow
+strong yellow green
+strong yellowish brown
+strong yellowish green
+strong yellowish pink
+very dark bluish green
+very dark green
+very dark greenish blue
+very dark purple
+very dark purplish red
+very dark red
+very dark reddish purple
+very dark yellowish green
+very deep purple
+very deep purplish red
+very deep red
+very deep reddish purple
+very deep yellowish green
+very light blue, baby blue
+very light bluish green
+very light green
+very light greenish blue
+very light purple
+very light purplish blue
+very light violet
+very light yellowish green
+very pale blue, cloud blue
+very pale green
+very pale purple
+very pale purplish blue
+very pale violet
+vivid blue, ultramarine
+vivid bluish green
+vivid green
+vivid greenish blue
+vivid greenish yellow
+vivid orange
+vivid orange yellow
+vivid pink
+vivid purple
+vivid purplish blue
+vivid purplish red
+vivid red
+vivid reddish orange
+vivid reddish purple
+vivid violet
+vivid yellow
+vivid yellow green
+vivid yellowish green
+vivid yellowish pink
+white
+yellowish gray
+yellowish white

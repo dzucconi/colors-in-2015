@@ -1,0 +1,191 @@
+alice blue
+alizarin crimson
+antique white
+aquamarine
+aquamarine medium
+aureoline yellow
+azure
+banana
+beige
+bisque
+black
+blanched almond
+blue
+blue light
+blue medium
+blue violet
+brick
+brown
+brown madder
+brown ochre
+burlywood
+burnt sienna
+burnt umber
+cadet
+cadmium lemon
+cadmium orange
+cadmium red deep
+cadmium red light
+cadmium yellow
+cadmium yellow light
+carrot
+cerulean
+chartreuse
+chocolate
+chrome oxide green
+cinnabar green
+cobalt
+cobalt green
+cobalt violet deep
+cold grey
+coral
+coral light
+cornflower
+cornsilk
+cyan
+cyan white
+dark orange
+deep ochre
+deep pink
+dim grey
+dodger blue
+eggshell
+emerald green
+english red
+firebrick
+flesh
+flesh ochre
+floral white
+forest green
+gainsboro
+geranium lake
+ghost white
+gold
+gold ochre
+goldenrod
+goldenrod dark
+goldenrod light
+goldenrod pale
+green
+green dark
+green pale
+green yellow
+greenish umber
+grey
+honeydew
+hot pink
+indian red
+indigo
+ivory
+ivory black
+khaki
+khaki dark
+lamp black
+lavender
+lavender blush
+lawn green
+lemon chiffon
+light beige
+light goldenrod
+light grey
+light salmon
+lime green
+linen
+madder lake deep
+magenta
+manganese blue
+maroon
+mars orange
+mars yellow
+melon
+midnight blue
+mint
+mint cream
+misty rose
+moccasin
+naples yellow deep
+navajo white
+navy
+old lace
+olive
+olive drab
+olive green dark
+orange
+orange red
+orchid
+orchid dark
+orchid medium
+papaya whip
+peach puff
+peacock
+permanent green
+permanent red violet
+peru
+pink
+pink light
+plum
+powder blue
+purple
+purple medium
+raspberry
+raw sienna
+raw umber
+red
+rose madder
+rosy brown
+royal blue
+saddle brown
+salmon
+sandy brown
+sap green
+sea green
+sea green dark
+sea green light
+sea green medium
+seashell
+sepia
+sienna
+sky blue
+sky blue deep
+sky blue light
+slate blue
+slate blue dark
+slate blue light
+slate blue medium
+slate grey
+slate grey dark
+slate grey light
+snow
+spring green
+spring green medium
+steel blue
+steel blue light
+tan
+terre verte
+thistle
+titanium white
+tomato
+turquoise
+turquoise blue
+turquoise dark
+turquoise medium
+turquoise pale
+ultramarine
+ultramarine violet
+van dyke brown
+venetian red
+violet
+violet dark
+violet red
+violet red medium
+violet red pale
+viridian light
+warm grey
+wheat
+white
+white smoke
+yellow
+yellow green#
+yellow light
+yellow ochre
+zinc white

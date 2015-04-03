@@ -1,0 +1,678 @@
+bluish black
+bluish gray
+bluish white
+brilliant amaranth
+brilliant amber
+brilliant apple green
+brilliant aquamarine
+brilliant arctic blue
+brilliant azure
+brilliant blue
+brilliant blue violet
+brilliant cerise
+brilliant cerulean
+brilliant chartreuse green
+brilliant cobalt blue
+brilliant cornflower blue
+brilliant crimson
+brilliant cyan
+brilliant emerald green
+brilliant fuchsia
+brilliant gamboge
+brilliant gold
+brilliant green
+brilliant harlequin
+brilliant heliotrope
+brilliant indigo
+brilliant lime green
+brilliant magenta
+brilliant malachite green
+brilliant mulberry
+brilliant opal
+brilliant orange
+brilliant orchid
+brilliant persian blue
+brilliant phthalo blue
+brilliant pistachio
+brilliant purple
+brilliant raspberry
+brilliant red
+brilliant rose
+brilliant sap green
+brilliant sapphire blue
+brilliant scarlet
+brilliant sea green
+brilliant spring bud
+brilliant spring green
+brilliant tangelo
+brilliant turquoise
+brilliant vermilion
+brilliant violet
+brilliant yellow
+brown
+cyanish black
+cyanish gray
+cyanish white
+dark amaranth
+dark amber
+dark apple green
+dark aquamarine
+dark arctic blue
+dark azure
+dark blue
+dark blue violet
+dark bluish gray
+dark cerise
+dark cerulean
+dark chartreuse green
+dark cobalt blue
+dark cornflower blue
+dark crimson
+dark cyan
+dark cyanish gray
+dark emerald green
+dark fuchsia
+dark gamboge
+dark gold
+dark grayish amber
+dark grayish azure
+dark grayish blue
+dark grayish brown
+dark grayish cerulean
+dark grayish chartreuse green
+dark grayish crimson
+dark grayish cyan
+dark grayish fuchsia
+dark grayish green
+dark grayish harlequin
+dark grayish indigo
+dark grayish lime green
+dark grayish magenta
+dark grayish malachite green
+dark grayish mulberry
+dark grayish olive
+dark grayish reddish brown
+dark grayish rose
+dark grayish sapphire blue
+dark grayish spring green
+dark grayish turquoise
+dark grayish vermilion
+dark grayish violet
+dark green
+dark greenish gray
+dark harlequin
+dark heliotrope
+dark indigo
+dark lime green
+dark magenta
+dark magentaish gray
+dark malachite green
+dark mulberry
+dark olive
+dark olivish gray
+dark opal
+dark orchid
+dark persian blue
+dark phthalo blue
+dark pistachio
+dark purple
+dark raspberry
+dark rose
+dark sap green
+dark sapphire blue
+dark scarlet
+dark sea green
+dark spring bud
+dark spring green
+dark tangelo
+dark turquoise
+dark vermilion
+dark violet
+deep amaranth
+deep amber
+deep apple green
+deep aquamarine
+deep arctic blue
+deep azure
+deep blue
+deep blue violet
+deep brown
+deep cerise
+deep cerulean
+deep chartreuse green
+deep cobalt blue
+deep cornflower blue
+deep crimson
+deep cyan
+deep emerald green
+deep fuchsia
+deep gamboge
+deep gold
+deep green
+deep harlequin
+deep heliotrope
+deep indigo
+deep lime green
+deep magenta
+deep malachite green
+deep mulberry
+deep olive
+deep opal
+deep orchid
+deep persian blue
+deep phthalo blue
+deep pistachio
+deep purple
+deep raspberry
+deep reddish brown
+deep rose
+deep sap green
+deep sapphire blue
+deep scarlet
+deep sea green
+deep spring bud
+deep spring green
+deep tangelo
+deep turquoise
+deep vermilion
+deep violet
+grayish amber
+grayish azure
+grayish blue
+grayish brown
+grayish cerulean
+grayish chartreuse green
+grayish crimson
+grayish cyan
+grayish fuchsia
+grayish green
+grayish harlequin
+grayish indigo
+grayish lime green
+grayish magenta
+grayish malachite green
+grayish mulberry
+grayish olive
+grayish red
+grayish rose
+grayish sapphire blue
+grayish spring green
+grayish turquoise
+grayish vermilion
+grayish violet
+greenish black
+greenish gray
+greenish white
+light amaranth
+light amber
+light apple green
+light aquamarine
+light arctic blue
+light azure
+light blue
+light blue violet
+light bluish gray
+light brilliant amaranth
+light brilliant amber
+light brilliant apple green
+light brilliant aquamarine
+light brilliant arctic blue
+light brilliant azure
+light brilliant blue
+light brilliant blue violet
+light brilliant cerise
+light brilliant cerulean
+light brilliant chartreuse green
+light brilliant cobalt blue
+light brilliant cornflower blue
+light brilliant crimson
+light brilliant cyan
+light brilliant emerald green
+light brilliant fuchsia
+light brilliant gamboge
+light brilliant gold
+light brilliant green
+light brilliant harlequin
+light brilliant heliotrope
+light brilliant indigo
+light brilliant lime green
+light brilliant magenta
+light brilliant malachite green
+light brilliant mulberry
+light brilliant opal
+light brilliant orange
+light brilliant orchid
+light brilliant persian blue
+light brilliant phthalo blue
+light brilliant pistachio
+light brilliant purple
+light brilliant raspberry
+light brilliant red
+light brilliant rose
+light brilliant sap green
+light brilliant sapphire blue
+light brilliant scarlet
+light brilliant sea green
+light brilliant spring bud
+light brilliant spring green
+light brilliant tangelo
+light brilliant turquoise
+light brilliant vermilion
+light brilliant violet
+light brilliant yellow
+light cerise
+light cerulean
+light chartreuse green
+light cobalt blue
+light cornflower blue
+light crimson
+light cyan
+light cyanish gray
+light emerald green
+light fuchsia
+light gamboge
+light gold
+light green
+light greenish gray
+light harlequin
+light heliotrope
+light indigo
+light lime green
+light magenta
+light magentaish gray
+light malachite green
+light mulberry
+light opal
+light orange
+light orchid
+light persian blue
+light phthalo blue
+light pink
+light pistachio
+light purple
+light raspberry
+light rose
+light sap green
+light sapphire blue
+light scarlet
+light sea green
+light spring bud
+light spring green
+light tangelo
+light turquoise
+light vermilion
+light violet
+light yellow
+light yellowish gray
+luminous vivid amaranth
+luminous vivid amber
+luminous vivid apple green
+luminous vivid aquamarine
+luminous vivid arctic blue
+luminous vivid azure
+luminous vivid blue
+luminous vivid blue violet
+luminous vivid cerise
+luminous vivid cerulean
+luminous vivid chartreuse green
+luminous vivid cobalt blue
+luminous vivid cornflower blue
+luminous vivid crimson
+luminous vivid cyan
+luminous vivid emerald green
+luminous vivid fuchsia
+luminous vivid gamboge
+luminous vivid gold
+luminous vivid green
+luminous vivid harlequin
+luminous vivid heliotrope
+luminous vivid indigo
+luminous vivid lime green
+luminous vivid magenta
+luminous vivid malachite green
+luminous vivid mulberry
+luminous vivid opal
+luminous vivid orange
+luminous vivid orchid
+luminous vivid persian blue
+luminous vivid phthalo blue
+luminous vivid pistachio
+luminous vivid purple
+luminous vivid raspberry
+luminous vivid red
+luminous vivid rose
+luminous vivid sap green
+luminous vivid sapphire blue
+luminous vivid scarlet
+luminous vivid sea green
+luminous vivid spring bud
+luminous vivid spring green
+luminous vivid tangelo
+luminous vivid turquoise
+luminous vivid vermilion
+luminous vivid violet
+luminous vivid yellow
+magentaish black
+magentaish gray
+magentaish white
+moderate amaranth
+moderate amber
+moderate apple green
+moderate aquamarine
+moderate arctic blue
+moderate azure
+moderate blue
+moderate blue violet
+moderate cerise
+moderate cerulean
+moderate chartreuse green
+moderate cobalt blue
+moderate cornflower blue
+moderate crimson
+moderate cyan
+moderate emerald green
+moderate fuchsia
+moderate gamboge
+moderate gold
+moderate green
+moderate harlequin
+moderate heliotrope
+moderate indigo
+moderate lime green
+moderate magenta
+moderate malachite green
+moderate mulberry
+moderate olive
+moderate opal
+moderate orange
+moderate orchid
+moderate persian blue
+moderate phthalo blue
+moderate pistachio
+moderate purple
+moderate raspberry
+moderate red
+moderate rose
+moderate sap green
+moderate sapphire blue
+moderate scarlet
+moderate sea green
+moderate spring bud
+moderate spring green
+moderate tangelo
+moderate turquoise
+moderate vermilion
+moderate violet
+pale amaranth
+pale amber
+pale apple green
+pale aquamarine
+pale arctic blue
+pale azure
+pale blue
+pale blue violet
+pale cerise
+pale cerulean
+pale chartreuse green
+pale cobalt blue
+pale cornflower blue
+pale crimson
+pale cyan
+pale emerald green
+pale fuchsia
+pale gamboge
+pale gold
+pale grayish pink
+pale green
+pale harlequin
+pale heliotrope
+pale indigo
+pale light grayish amber
+pale light grayish azure
+pale light grayish blue
+pale light grayish brown
+pale light grayish cerulean
+pale light grayish chartreuse green
+pale light grayish crimson
+pale light grayish cyan
+pale light grayish fuchsia
+pale light grayish green
+pale light grayish harlequin
+pale light grayish indigo
+pale light grayish lime green
+pale light grayish magenta
+pale light grayish malachite green
+pale light grayish mulberry
+pale light grayish olive
+pale light grayish rose
+pale light grayish sapphire blue
+pale light grayish spring green
+pale light grayish turquoise
+pale light grayish vermilion
+pale light grayish violet
+pale lime green
+pale magenta
+pale malachite green
+pale mulberry
+pale opal
+pale orange
+pale orchid
+pale persian blue
+pale phthalo blue
+pale pink
+pale pistachio
+pale purple
+pale raspberry
+pale rose
+pale sap green
+pale sapphire blue
+pale scarlet
+pale sea green
+pale spring bud
+pale spring green
+pale tangelo
+pale turquoise
+pale vermilion
+pale violet
+pale yellow
+pink
+pinkish gray
+pinkish white
+reddish brown
+reddish brownish black
+reddish brownish gray
+reddish gray
+strong amaranth
+strong amber
+strong apple green
+strong aquamarine
+strong arctic blue
+strong azure
+strong blue
+strong blue violet
+strong cerise
+strong cerulean
+strong chartreuse green
+strong cobalt blue
+strong cornflower blue
+strong crimson
+strong cyan
+strong emerald green
+strong fuchsia
+strong gamboge
+strong gold
+strong green
+strong harlequin
+strong heliotrope
+strong indigo
+strong lime green
+strong magenta
+strong malachite green
+strong mulberry
+strong olive
+strong opal
+strong orange
+strong orchid
+strong persian blue
+strong phthalo blue
+strong pistachio
+strong purple
+strong raspberry
+strong red
+strong rose
+strong sap green
+strong sapphire blue
+strong scarlet
+strong sea green
+strong spring bud
+strong spring green
+strong tangelo
+strong turquoise
+strong vermilion
+strong violet
+very brown
+very dark azure
+very dark blue
+very dark chartreuse green
+very dark cyan
+very dark green
+very dark magenta
+very dark olive
+very dark rose
+very dark spring green
+very dark violet
+very deep azure
+very deep blue
+very deep brown
+very deep chartreuse green
+very deep cyan
+very deep green
+very deep magenta
+very deep olive
+very deep reddish brown
+very deep rose
+very deep spring green
+very deep violet
+very light amaranth
+very light amber
+very light apple green
+very light aquamarine
+very light arctic blue
+very light azure
+very light blue
+very light blue violet
+very light cerise
+very light cerulean
+very light chartreuse green
+very light cobalt blue
+very light cornflower blue
+very light crimson
+very light cyan
+very light emerald green
+very light fuchsia
+very light gamboge
+very light gold
+very light green
+very light harlequin
+very light heliotrope
+very light indigo
+very light lime green
+very light magenta
+very light malachite green
+very light mulberry
+very light opal
+very light orange
+very light orchid
+very light persian blue
+very light phthalo blue
+very light pistachio
+very light purple
+very light raspberry
+very light rose
+very light sap green
+very light sapphire blue
+very light scarlet
+very light sea green
+very light spring bud
+very light spring green
+very light tangelo
+very light turquoise
+very light vermilion
+very light violet
+very light yellow
+very pale amber
+very pale azure
+very pale blue
+very pale cerulean
+very pale chartreuse green
+very pale crimson
+very pale cyan
+very pale fuchsia
+very pale green
+very pale harlequin
+very pale indigo
+very pale lime green
+very pale magenta
+very pale malachite green
+very pale mulberry
+very pale orange
+very pale pink
+very pale rose
+very pale sapphire blue
+very pale spring green
+very pale turquoise
+very pale vermilion
+very pale violet
+very pale yellow
+very reddish brown
+vivid amaranth
+vivid amber
+vivid apple green
+vivid aquamarine
+vivid arctic blue
+vivid azure
+vivid blue
+vivid blue violet
+vivid cerise
+vivid cerulean
+vivid chartreuse green
+vivid cobalt blue
+vivid cornflower blue
+vivid crimson
+vivid cyan
+vivid emerald green
+vivid fuchsia
+vivid gamboge
+vivid gold
+vivid green
+vivid harlequin
+vivid heliotrope
+vivid indigo
+vivid lime green
+vivid magenta
+vivid malachite green
+vivid mulberry
+vivid opal
+vivid orange
+vivid orchid
+vivid persian blue
+vivid phthalo blue
+vivid pistachio
+vivid purple
+vivid raspberry
+vivid red
+vivid rose
+vivid sap green
+vivid sapphire blue
+vivid scarlet
+vivid sea green
+vivid spring bud
+vivid spring green
+vivid tangelo
+vivid turquoise
+vivid vermilion
+vivid violet
+vivid yellow
+yellowish black
+yellowish gray
+yellowish white

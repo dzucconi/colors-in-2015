@@ -1,0 +1,206 @@
+air force blue
+air force forest green
+aircraft cream
+aircraft gray
+aircraft gray camo
+aircraft green camo
+aircraft insignia blue
+aircraft white
+army admin vehicles
+army blue
+army forest green
+army forest green camo
+army green
+beachwood
+beige
+beige gray stain
+black
+black camo
+black int'l
+blue
+blue drab
+blue gray
+blue green
+blue sea
+blue white
+boeing gray
+bone white
+bright blue
+brown
+brown int'l
+buff
+bulkhead gray
+bulkhead machinery gray
+butternut stain
+camouflage gray
+candlelight
+carc aircraft red
+carmine red
+clear blue
+clipper blue
+coast guard blue
+coast guard blue gray
+coast guard deck red
+coast guard orange
+coast guard red
+coast guard white
+cocoa brown
+coyote
+dark blue
+dark blue gray
+dark blue green
+dark gray
+dark green
+dark green camo
+dark green int'l
+dark oak
+dawn gray
+deep gray
+deep green
+desert sand
+desert sand camo
+dot highway blue
+dot highway brown
+dot highway green
+dot highway orange
+dot highway red
+dot highway yellow
+dull red
+earth brown
+earth brown camo
+earth red camo
+earth yellow
+earth yellow camo
+eggshell
+exterior deck gray
+f-4 aircraft
+f.s. seminal brown
+field drab camo
+field green
+filing cabinet
+filing cabinet black
+foliage green
+forest service
+forest service sign standard
+gold
+gray
+gray int'l
+green
+green gold stain
+green gray
+gunship gray
+gunship green
+handicap blue
+haze gray
+highland
+insignia blue
+insignia red
+insignia white
+int'l white
+interior aircraft black
+interior green
+interior haze gray
+international orange
+ivory
+khaki
+light blue
+light blue int'l
+light brown
+light coyote
+light gray
+light green
+light green camo
+light green int'l
+light khaki
+light mushroom navy
+light orange brown
+light red int'l
+light tan
+machinery gray
+madeira 1957
+marine green
+marine od green
+maroon
+maroon olympic russet
+mechanic gray navy standard
+medium gray
+metallic red-brown
+middlestone
+mil-p-24441 primer
+misc hawker beechcraft white
+munsell color
+nasa
+nasa primer
+nasa safety brown
+nasa safety medium green
+national parks service
+nato green
+navair flat green
+navair flat orange
+navsea
+navy
+navy black
+navy blue
+navy gray
+navy torpedo
+ocean gray
+olive drab
+olive drab camo
+olive drab carc
+olive mohave
+orange-brown
+osha black
+osha safety blue
+osha safety green
+osha safety orange
+osha safety purple
+osha safety red
+osha safety red dot
+osha safety yellow
+oxygen tank green
+parchment
+park service brown
+park service cream
+pastel blue
+peach
+pearl gray
+post office box
+postal green
+postal service cream
+public building standard
+red int'l
+rose
+rosewood
+royal blue
+rust red
+sagebrush
+sand
+sand camo
+sand gray
+school bus yellow
+sea blue
+sea mist green
+sea plane gray
+seafoam green
+seal brown
+sierra tan
+silver aluminum int'l
+slate gray
+strata blue
+sunglow
+tan
+teal blue
+traffic yellow
+tt-e-489
+un flag blue
+untinted white
+urban gray
+urban tan
+very light sand
+walnut brown
+warm gray
+white
+yellow
+yellow gray
+yellow int'l
+yellow-green

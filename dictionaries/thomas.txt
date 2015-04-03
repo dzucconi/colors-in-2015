@@ -1,0 +1,72 @@
+aquamarine
+black
+blue
+blue violet
+brown
+cadet blue
+coral
+cornflower blue
+cyan
+dark green
+dark olive green
+dark orchid
+dark slate blue
+dark slate gray
+dark slate grey
+dark turquoise
+dim gray
+dim grey
+firebrick
+forest green
+gold
+goldenrod
+gray
+green
+green yellow
+grey
+indian red
+khaki
+light blue
+light gray
+light grey
+light steel blue
+lime green
+magenta
+maroon
+medium aquamarine
+medium blue
+medium forest green
+medium goldenrod
+medium orchid
+medium sea green
+medium slate blue
+medium spring green
+medium turquoise
+medium violet red
+midnight blue
+navy
+navy blue
+orange
+orange red
+orchid
+pale green
+pink
+plum
+red
+salmon
+sandy brown
+sea green
+sienna
+sky blue
+slate blue
+spring green
+steel blue
+tan
+thistle
+turquoise
+violet
+violet red
+wheat
+white
+yellow
+yellow green
