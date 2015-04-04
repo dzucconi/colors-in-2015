@@ -84,7 +84,7 @@ battleship gray
 bay leaf
 bay of many
 bazaar
-bean  
+bean
 beauty bush
 beaver
 beeswax
@@ -1501,7 +1501,7 @@ walnut
 wasabi
 water leaf
 watercourse
-waterloo 
+waterloo
 wattle
 watusi
 wax flower
